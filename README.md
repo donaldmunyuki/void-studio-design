@@ -62,6 +62,10 @@ A local Lighthouse audit was attempted for this project, but the development con
 - Consider a `prefetch`/`preload` strategy for fonts and critical assets
 - Add a reduced-motion preference for users who disable animations
 
+### License
+
+- MIT License has been used for this project
+
 ## Notes
 
 This repository is a polished concept site for a design studio. It is ideal for deployment as a static landing page, and it can be enhanced further with a build step, asset optimization, or CMS integration.
